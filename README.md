@@ -104,3 +104,8 @@ If you'd like to contribute more ML notebooks, feel free to fork this repo, crea
 For any questions or feedback, feel free to connect via GitHub issues or messages.
 
 ---
+
+## 👨‍💻 Author
+
+**Satyam9196**  
+GitHub: [@satyam9196](https://github.com/satyam9196)
